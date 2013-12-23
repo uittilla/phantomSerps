@@ -1,0 +1,38 @@
+Google Serp Gatherer V2
+
+The code in this application was written as both a clean up and a replacement of the current googleSerpGatherer code base. It is using a seperate library to the current gatherer which had many issues with google. This library appears more stable but has an underlying issue where you cannot directly pass it any cookie file.
+
+Cookie files are important.
+
+Here is how I fixed that:
+
+Navigate to node_modules/phantom
+
+Edit phantom.js
+
+Find   
+
+module.exports = { 
+    create: function() {
+      var args, binary, cb, httpServer, phantom, port, sock, _i; 
+      args = 4 <= arguments.length ? __slice.call(arguments, 0, _i = arguments.length - 3) : (_i = 0, []), cb = arguments[_i++], binary = arguments[_i++], port = arguments[_i++];
+
+And underneath here add
+
+args.push('--cookies-file=/tmp/cookies.txt');
+
+This will give you cookie support.
+
+For further information on this library please see: https://github.com/sgentle/phantomjs-node
+
+
+This is a Nodejs application which provided bindings for an underlying phantomJs install.
+
+Getting it running:
+
+Right now this system uses localhost for its storage and queing systems.
+
+Review/ run putJobs.js to populate a local queue
+Review/ run app.js to obtain jobs from the queue
+
+

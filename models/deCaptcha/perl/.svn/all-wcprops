@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/optimum-intel-gatherer/!svn/ver/30/trunk/scripts/phantom/perl
+END
+pic.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/optimum-intel-gatherer/!svn/ver/30/trunk/scripts/phantom/perl/pic.jpg
+END
+api_consts.pm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/optimum-intel-gatherer/!svn/ver/30/trunk/scripts/phantom/perl/api_consts.pm
+END
+export-cropped.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/optimum-intel-gatherer/!svn/ver/30/trunk/scripts/phantom/perl/export-cropped.png
+END
+main.pl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/optimum-intel-gatherer/!svn/ver/30/trunk/scripts/phantom/perl/main.pl
+END
+bad.pl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/optimum-intel-gatherer/!svn/ver/30/trunk/scripts/phantom/perl/bad.pl
+END
+ccproto_client.pm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/optimum-intel-gatherer/!svn/ver/30/trunk/scripts/phantom/perl/ccproto_client.pm
+END
+ccproto.pm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/optimum-intel-gatherer/!svn/ver/30/trunk/scripts/phantom/perl/ccproto.pm
+END
