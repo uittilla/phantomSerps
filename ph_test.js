@@ -1,5 +1,4 @@
 
-
 var phantom   = require('phantom');
 var event     = require('events').EventEmitter;
 
@@ -39,7 +38,7 @@ var PhantomGatherer = {
       page.set('settings.userAgent', 'Mozilla/5.0 (Windows NT 6.2) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.12 Safari/535.11');
       page.set('settings.javascriptEnabled', true);
       page.set('settings.loadImages', true);
-      page.set('cookies', '/home/mark.ibbotson/cookies.txt');
+      page.set('cookies', '/tmp/cookies.txt');
 
       page.set('onConsoleMessage', function (msg) {
           console.log(msg);
