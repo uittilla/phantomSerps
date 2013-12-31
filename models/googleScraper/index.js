@@ -1,7 +1,7 @@
 "use strict";
 /**
  * @Purpose: Interface to phantom library
- * @Author: Mark Ibbotson (Ibbo) <mark.ibbotson@stickyeyes.com>
+ * @Author: Mark Ibbotson (Ibbo) <mark.ibbotson>
  *
  */
 
