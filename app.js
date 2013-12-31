@@ -2,7 +2,7 @@
 
 /**
  * @Purpose: Main entry point for SERP gathering
- * @Author: Mark Ibbotson (Ibbo) <mark.ibbotson@stickyeyes.com>
+ * @Author: Mark Ibbotson (Ibbo) <mark.ibbotson>
  * @type {*}
  */
 
