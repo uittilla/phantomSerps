@@ -3,7 +3,7 @@
 /**
  * @Purpose: Interface to the main PERL libs that come with decaptcha
  * These can easily be swapped out for the php flavour
- * @Author: Mark Ibbotson (Ibbo) <mark.ibbotson@stickyeyes.com>
+ * @Author: Mark Ibbotson (Ibbo) <mark.ibbotson>
  * @type {*}
  */
 
