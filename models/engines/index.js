@@ -6,7 +6,7 @@
  * This however does not tally up anywhere close to what is provided by a proxy server
  * Leave it out and they are very very close.
  *
- * @Author: Mark Ibbotson (Ibbo) <mark.ibbotson@stickyeyes.com>
+ * @Author: Mark Ibbotson (Ibbo) <mark.ibbotson>
  * @type {*}
  */
 
