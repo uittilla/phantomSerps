@@ -2,7 +2,7 @@
 
 /**
  * @Purpose: Wrap Beanstalk in emmiters
- * @Author: Mark Ibbotson (Ibbo) <mark.ibbotson@stickyeyes.com>
+ * @Author: Mark Ibbotson (Ibbo) <mark.ibbotson>
  * @type {*}
  */
 
