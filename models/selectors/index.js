@@ -1,7 +1,7 @@
 "use strict";
 
 /*
- * Author M Ibbotson (Ibbo) <mark.ibbotson@stickyeyes.com>
+ * Author M Ibbotson (Ibbo) <mark.ibbotson>
  * Ad hoc container for slectors
  */
 module.exports = {
