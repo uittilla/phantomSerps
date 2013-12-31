@@ -2,7 +2,7 @@
 
 /**
  * @Purpose: PhantomJs Headless browser interface. Simulate human behaviour
- * @Author: Mark Ibbotson (Ibbo) <mark.ibbotson@stickyeyes.com>
+ * @Author: Mark Ibbotson (Ibbo) <mark.ibbotson>
  * @Website: http://phantomjs.org/, https://github.com/sgentle/phantomjs-node
  * @type {*}
  */
