@@ -3,7 +3,7 @@
 /**
  * @Purpose: Crops a section from an image.
  * In this case we are cropping the sorry image on a google captcha page
- * @Author: Mark Ibbotson (Ibbo) <mark.ibbotson@stickyeyes.com>
+ * @Author: Mark Ibbotson (Ibbo) <mark.ibbotson>
  * @type {*}
  */
 
